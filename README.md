@@ -35,7 +35,7 @@ ChatPod 是一個強大且簡單易用的工具，讓你可以輕鬆掌握 YouTu
 
 1. 克隆此專案：
     ```bash
-    git clone https://github.com/yourusername/chatpod.git
+    git clone https://github.com/jacky88927/chatpod.git
     ```
 2. 進入專案目錄：
     ```bash
