@@ -80,14 +80,6 @@ python transcript_UI.py
 
 這將啟動圖形化界面，允許使用者選擇逐字稿與之互動，並生成影片的摘要。
 
-## 檔案結構
-
-- `youtube_video_processor.py`：影片下載與轉錄。
-- `utils.py`：包含輔助工具，例如 API 初始化、摘要生成、檔案讀取和儲存。
-- `transcript_UI.py`：使用者介面。
-- `requirements.txt`：所需的 Python 套件。
-- `README.md`：專案介紹與使用說明。
-
 ## 範例
 
 - 處理 YouTube 頻道影片並生成摘要：
@@ -98,11 +90,3 @@ python transcript_UI.py
   ```bash
   python transcript_UI.py
   ```
-
-## 貢獻
-
-歡迎任何形式的貢獻！請通過 Issue 報告錯誤或提出建議，或提交 Pull Request 以改進代碼。
-
-## 授權
-
-本專案基於 MIT License，詳細信息請參考 LICENSE 文件。
