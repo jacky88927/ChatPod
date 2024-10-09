@@ -1,8 +1,15 @@
-# ChatPod: Chat with YouTube Podcasts and Videos
+# YouTube Transcript Chat
 
 一個用於下載 YouTube 影片的逐字稿，生成摘要，並透過聊天介面與逐字稿進行互動的工具。
-![UI截圖](images/UI1.png)
-[UI截圖](images/UI2.png)
+
+## 介面截圖
+
+### 利用 UI 看 Podcast 摘要
+![利用 UI 看 podcast 摘要的截圖](images/UI1.png)
+
+### 利用 UI 跟 Podcast 內容聊天
+![利用 UI 跟 podcast 內容聊天的截圖](images/UI2.png)
+
 ## 功能
 
 - 下載 YouTube 頻道或單個影片的逐字稿。
