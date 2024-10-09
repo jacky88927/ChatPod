@@ -4,11 +4,11 @@
 
 ## 介面截圖
 
-### 利用 UI 看 Podcast 摘要
-![利用 UI 看 podcast 摘要的截圖](images/UI1.png)
+### 看 Podcast 摘要
+![看 podcast 摘要的截圖](images/UI1.png)
 
-### 利用 UI 跟 Podcast 內容聊天
-![利用 UI 跟 podcast 內容聊天的截圖](images/UI2.png)
+### 跟 Podcast 內容聊天
+![跟 podcast 內容聊天的截圖](images/UI2.png)
 
 ## 功能
 
