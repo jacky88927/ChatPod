@@ -82,9 +82,9 @@ python transcript_UI.py
 
 ## 範例
 
-- 處理 YouTube 頻道影片並生成摘要：
+- 下載 YouTube 頻道影片產生逐字稿：
   ```bash
-  python youtube_video_processor.py channel "https://www.youtube.com/channel/yourchannelurl" --output_dir ./transcriptions
+  python youtube_video_processor.py single "[https://www.youtube.com/channel/yourchannelurl](https://www.youtube.com/watch?v=40MgSZ5eTT8&t=1s&ab_channel=%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92)" --output_dir ./transcriptions
   ```
 - 啟動 UI 與逐字稿進行互動：
   ```bash
