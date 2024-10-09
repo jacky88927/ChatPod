@@ -1,4 +1,4 @@
-# YouTube Transcript Chat
+# ChatPod: Chat with YouTube Podcasts and Videos
 
 一個用於下載 YouTube 影片的逐字稿，生成摘要，並透過聊天介面與逐字稿進行互動的工具。
 
@@ -89,10 +89,4 @@ python transcript_UI.py
   python transcript_UI.py
   ```
 
-## 貢獻
 
-歡迎任何形式的貢獻！請通過 Issue 報告錯誤或提出建議，或提交 Pull Request 以改進代碼。
-
-## 授權
-
-本專案基於 MIT License，詳細信息請參考 LICENSE 文件。
