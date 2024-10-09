@@ -1,6 +1,6 @@
 # ChatPod: Chat with YouTube Podcasts and Videos
 
-ChatPod 是一個用於下載 YouTube 影片與 Podcast 的逐字稿、生成摘要，並透過聊天介面與逐字稿進行互動的工具。此專案結合了影片和音頻處理、自然語言處理和圖形化使用者介面，幫助使用者快速掌握內容，並進行進一步的互動。
+ChatPod 是一個強大且簡單易用的工具，讓你可以輕鬆掌握 YouTube 內的影片和Podcast 的內容。不僅可以自動下載逐字稿並生成精簡摘要，還能透過互動式聊天介面與內容進行深入交流，支援OPENAI(需申請付費api key)及GROQ(需申請免費api key)。
 
 ## 介面截圖
 
